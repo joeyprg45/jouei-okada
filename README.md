@@ -5,7 +5,7 @@
 |  項目   |                       内容                       |
 | :----: | :-----------------------------------------------: |
 |  名前  |             岡田條永 - jouei okada              |
-|  学部  |  東京理科大学 創域理工学部 |   
+|  学部  |  東京理科大学 創域理工学部 情報計算科学科 |   
 |  LinkedIn  | https://www.linkedin.com/in/jouei-okada-785990262/ |
 | GitHub |  https://github.com/joeyprg45     |
 |  Zenn  |   https://zenn.dev/joesaber       |
@@ -71,7 +71,7 @@
 - **github**: [https://github.com/joeyprg45/warikan_app ](https://github.com/joeyprg45/TalentScope)
 
 
-
+---
 
 ## 自己PR
 私の強みは、その時々に必要とされる技術を主体的に学び、実践に落とし込む強い探究心と成長意欲です。
