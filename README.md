@@ -71,6 +71,9 @@
 - **開発期間**: 1か月
 - **github**: https://github.com/joeyprg45/TalentScope
 
+## Blender作品
+|-----|-----|
+|<img width="1920" height="1080" alt="1a" src="https://github.com/user-attachments/assets/8331dc41-397b-4d3e-abb1-45b459a2fe9f" />|<img width="2415" height="1384" alt="3a" src="https://github.com/user-attachments/assets/99e86902-d31e-4ef5-8302-b5481666d7a8" />|
 
 ---
 
