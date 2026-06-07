@@ -6,54 +6,51 @@
 | :----: | :-----------------------------------------------: |
 |  名前  |             岡田條永 - jouei okada              |
 |  学部  |  東京理科大学 創域理工学部 |   
-|  LinkedIn  | (https://www.linkedin.com/in/jouei-okada-785990262/) |
-| GitHub |       |
-|  Zenn  |          |
+|  LinkedIn  | https://www.linkedin.com/in/jouei-okada-785990262/ |
+| GitHub |  https://github.com/joeyprg45     |
+|  Zenn  |   https://zenn.dev/joesaber       |
 
 ---
 
 ## ITスキル
 
-|        key         |                                         value                                          |
+|        項目         |                                      内容                                         |
 | :----------------: | :------------------------------------------------------------------------------------: |
-| プログラミング<br>言語 |                    Python, Javascript, Typescript, C/C++, Go                     |
-|   フレームワーク   |   Flask, Django, FastAPI, Node.js, React, Nuxt.js, Next.js,<br> Pytorch, ROS 2    |
+| プログラミング言語 |                    Python                   |
+|   フレームワーク   |   Node.js, React, Next.js |
 |    データベース    |                                   MySQL, PostgreSQL                                    |
 |      インフラ      |                            Docker, AWS, Terraform                            |
-|      研究分野      | 拡散モデル, 強化学習, タンパク質言語モデル,<br> グラフニューラルネット, ロボット基盤モデル |
 ---
 
-<!-- ## 海外経験
-- **2011-2016** 中国 小学3年~中学1年まで現地校に在学
-- **2018** カナダ 短期留学(2week)
-- **2021** オーストラリア 短期留学(2week)
-- **2022** 韓国 ハナシンポジウム(1week) -->
 
+## インターン経験
 
-## 経歴
-| 年月  |                             内容                              |
-| :---: | :----------------------------------------------------------: |
-| **2021/04** | 早稲田大学基幹理工学部入学 |
-| **2021/05** | 株式会社CougerにてQAエンジニアインターンとして勤務。 |
-| **2023/07** | 株式会社Cougerを退職。 |
-| **2023/07** | 株式会社PKSHA TechnologyにてSWE短期インターンとして勤務。 |
-| **2023/08** | 合同会社EXNOA(DMM Games)にてインフラエンジニア短期インターンとして勤務。 |
-| **2023/08** | 株式会社日本経済新聞社にてSWE短期インターンとして勤務。 |
-| **2023/09** | 産業技術総合研究所 人工知能研究センターにてテクカルスタッフとして勤務。 |
-| **2024/04** | 早稲田大学基幹理工学部 笠井研究室にて研究室配属。 |
-| **2024/08** | 株式会社EpicAIにて機械学習エンジニアインターンとして勤務。 |
-| **2025/03** | 早稲田大学基幹理工学部 卒業 |
-| **2025/04** | 早稲田大学基幹理工研究科 入学 |
-| **2025/08** | 株式会社Preferred Networksにてリサーチインターンとして勤務。|
-| **2025/10** | 株式会社リクルートにてデータサイエンティストインターンとして勤務。|
+学部１年次から合計３社(計５プロジェクト)のインターンを経験、ポジションは全てAIエンジニア。
+
+|企業名|期間|ポジション|
+|-----|---|----|
+|株式会社 shinonome|2024年11月〜2025年3月|AIエンジニア|
+|株式会社 |2025年6月～2025年7月 |AIエンジニア|
+|株式会社 |2025年9月〜現在|AIエンジニア|
 
 
 
-## 修了歴
-- **2022/03** [TCP/IP プロトコルスタック自作開発 KLab Expert Camp](https://klab-hr.snar.jp/jobboard/detail.aspx?id=uJyeCPYsstg) に参加し、C++ を用いて TCP/IP プロトコルスタック自作を体験。
-- **2022/11** 東大の松尾研主催の【世界モデルと知能】講座を受講した。 [修了証はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_2022_certification.pdf)。
-- **2023/03** 「mixi bug shooting challenge #8」 に参加した。
-- **2023/03** 「ICT トラブルシューティングコンテスト」で早稲田チームとして出場し、8位の成績を残した。[順位表はこちら](https://icttoracon.net/archives/8986)。
+## ハッカソン、コンペ参加歴
+|名前|
+|-----|
+|GCI 2024 Winter|
+|スプリングセミナー2025 深層生成モデル|
+|スプリングセミナー2025 金融市場取引と機械学習|
+|深層学習DeepLearning基礎講座|
+|松尾研 AI エンジニアリング実践講座 2025 優秀生|
+|松尾研LLMコンペ2025参加|
+|Kaggle Santa 2025 - Christmas Tree Packing Challengeで銅メダルを獲得|
+|Kaggle Deep Past Challenge - Translate Akkadian to English 参加|
+|DeepLearning応用講座 世界モデル2025|
+|KDDcup2026: Data Agents参加|
+|Kaggle BirdCLEF+ 2026で銅メダルを獲得|
+|Microsoft Agent Hackathon powered by Tokyo Electron Device参加|
+|DevOps × AI Agent Hackathon|
 
 ## 執筆歴: 研究
 - **2021/02** [「粘菌を活用した新たな経路探索アルゴリズムに関する研究」〜ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証〜](https://github.com/bishopfunc/highschool_paper)
