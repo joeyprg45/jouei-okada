@@ -63,18 +63,18 @@
 
 ## 個人開発経験
 ### 割り勘の際の金額を計算するアプリ
-- **概要**: 
+- **概要**: next.jsの練習用につくった、旅行先などでつかう割り勘計算アプリ
 - **開発期間**: 2週間 
 - **github**: https://github.com/joeyprg45/warikan_app 
 
 ### 人事提案AIエージェント
+- **概要**: notionやslack、githubと連携して社員のスキルを分析し、最適なアサイン提案を行うAIエージェント
 - **開発期間**: 1か月
 - **github**: https://github.com/joeyprg45/TalentScope
 
-## Blender作品
-
-<img width="1000" alt="3a" src="https://github.com/user-attachments/assets/35f34239-28ca-418c-b88f-af864e08cf16" />
-
+### Blender作品
+- **概要**: 今までBlenderで作ってきた作品の画像集
+- **pinterest**: https://www.pinterest.com/jokjok9000/_profile/
 ---
 
 ## 自己PR
