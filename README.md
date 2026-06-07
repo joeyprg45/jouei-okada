@@ -75,9 +75,7 @@
 
 
 
-
-<img width="801" height="1071" alt="HOUSE2" src="https://github.com/user-attachments/assets/1f676b2e-fb2d-45f3-a7d8-52ea6ea2fc89" />
-<img width="1206" height="1677" alt="HOME1" src="https://github.com/user-attachments/assets/b9478166-9e20-4a2f-a541-5d7f7df852d5" />
+<img width="801" height="1071" alt="HOUSE2" src="https://github.com/user-attachments/assets/1f676b2e-fb2d-45f3-a7d8-52ea6ea2fc89" /> <img width="1206" height="1677" alt="HOME1" src="https://github.com/user-attachments/assets/b9478166-9e20-4a2f-a541-5d7f7df852d5" />
 <img width="1920" height="1080" alt="STARWARS war" src="https://github.com/user-attachments/assets/1bdea68b-3c86-48c6-b112-0bc0064b550c" />
 
 https://github.com/user-attachments/assets/68344c22-5328-4a93-abb5-7a0d2c3b02f4
