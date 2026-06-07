@@ -70,6 +70,13 @@
 - **開発期間**: １か月
 - **github**: https://github.com/joeyprg45/TalentScope
 
+### Blenderでつくった作品
+
+https://github.com/user-attachments/assets/4bb9b65c-029c-4b94-8bdb-c36128d30e36
+
+
+- **開発期間**: １か月
+- **github**: https://github.com/joeyprg45/TalentScope
 
 ---
 
