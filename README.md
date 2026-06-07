@@ -74,7 +74,7 @@
 
 ### Blender作品
 - **概要**: 今までBlenderで作ってきた作品の画像集
-- **pinterest**: https://www.pinterest.com/jokjok9000/_profile/
+- **pinterest**: https://www.pinterest.com/jokjok9000/
 ---
 
 ## 自己PR
