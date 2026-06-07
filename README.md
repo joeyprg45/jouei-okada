@@ -19,8 +19,8 @@
 - LLM
 - AIエージェント
 - Blender
----
 
+---
 
 ## インターン経験
 
@@ -47,6 +47,7 @@
 ## ハッカソン参加歴
 |期間|名前|
 |-----|-----|
+|2026年3月~2026年3月|ゆめみPGハッカソン参加|
 |2026年5月~2026年6月|Microsoft Agent Hackathon powered by Tokyo Electron Device参加|
 |2026年6月~2026年7月|DevOps × AI Agent Hackathon|
 
