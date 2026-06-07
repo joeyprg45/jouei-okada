@@ -68,7 +68,7 @@
 
 ### 人事提案AIエージェント
 - **開発期間**: １か月
-- **github**: [https://github.com/joeyprg45/warikan_app ](https://github.com/joeyprg45/TalentScope)
+- **github**: https://github.com/joeyprg45/TalentScope
 
 
 ---
