@@ -29,50 +29,36 @@
 
 |企業名|期間|ポジション|
 |-----|---|----|
-|株式会社 shinonome|2024年11月〜2025年3月|AIエンジニア|
-|株式会社 |2025年6月～2025年7月 |AIエンジニア|
-|株式会社 |2025年9月〜現在|AIエンジニア|
+|株式会社shinonome|2024年11月〜2025年3月|AIエンジニア|
+|株式会社松尾研究所|2025年6月～2025年7月 |AIエンジニア|
+|株式会社EpicAI|2025年9月〜現在|AIエンジニア|
 
+---
 
+## 講座参加歴
+|期間|名前|
+|-----|-----|
+|2024年10月~2025年1月|GCI 2024 Winter|
+|2025年2月~2025年3月|スプリングセミナー2025 深層生成モデル|
+|2025年2月~2025年3月|スプリングセミナー2025 金融市場取引と機械学習|
+|2025年4月~2025年7月|深層学習DeepLearning基礎講座|
+|2025年4月~2025年7月|松尾研 AI エンジニアリング実践講座 2025 優秀生|
+|2025年5月~2026年6月|DeepLearning応用講座 世界モデル2025|
 
-## ハッカソン、コンペ参加歴
-|名前|
-|-----|
-|GCI 2024 Winter|
-|スプリングセミナー2025 深層生成モデル|
-|スプリングセミナー2025 金融市場取引と機械学習|
-|深層学習DeepLearning基礎講座|
-|松尾研 AI エンジニアリング実践講座 2025 優秀生|
-|松尾研LLMコンペ2025参加|
-|Kaggle Santa 2025 - Christmas Tree Packing Challengeで銅メダルを獲得|
-|Kaggle Deep Past Challenge - Translate Akkadian to English 参加|
-|DeepLearning応用講座 世界モデル2025|
-|KDDcup2026: Data Agents参加|
-|Kaggle BirdCLEF+ 2026で銅メダルを獲得|
-|Microsoft Agent Hackathon powered by Tokyo Electron Device参加|
-|DevOps × AI Agent Hackathon|
+## ハッカソン参加歴
+|期間|名前|
+|-----|-----|
+|2026年5月~2026年6月|Microsoft Agent Hackathon powered by Tokyo Electron Device参加|
+|2026年6月~2026年7月|DevOps × AI Agent Hackathon|
 
-## 執筆歴: 研究
-- **2021/02** [「粘菌を活用した新たな経路探索アルゴリズムに関する研究」〜ダイクストラ法・粘菌アルゴリズム・強化学習の比較検証〜](https://github.com/bishopfunc/highschool_paper)
-  - 「首都圏オープン 2021(TSEF2021) 」 優等賞
-  - [「ジュニア農芸化学会 2021」 P13-B 参加賞](https://www.jsbba.or.jp/2021/program_junior.html)
-- **2023/03**「人間的な処理に基づくウェブ操作モデルの検討」
-  - 【世界モデルと知能】講座の最終課題として執筆。 [論文はこちら](https://github.com/bishopfunc/Curriculum-Vitae/blob/main/pdf/world_model_paper.pdf)
-- **2024/05**「100 台のRaspberry Pi Mouse を制御する ROS ベースの群ロボットシステムの開発」
-   - [「ロボティクス・メカトロニクス 講演会 2024」](https://robomech.org/2024/) にてポスター発表。[ポスターはこちら](https://drive.google.com/file/d/1Pu4KfMKfuu7GrKscd3aBVf9qom2S4hYv/view?usp=sharing)
-- **2025/05**「機能性タンパク質の設計のためのPLMによるガイド付き強化学習手法の検討」
-   - 「人工知能学会全国大会2025」 にて口頭発表。[論文はこちら][https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2L1OS2503/_article/-char/ja/](https://www.jstage.jst.go.jp/article/pjsai/JSAI2025/0/JSAI2025_2L1OS2503/_article/-char/ja/), [発表資料はこちら](https://drive.google.com/file/d/1ML65-2jLrkYTESRRbLAQRWH-7BRBO4F9/view?usp=sharing)
-- **2025/02**
-「The 100 Mouse System: A Scalable Multi-Robot Testbed with State Management User Interface」
-   - 「Journal of Robotics and Mechatronics」 にて採択。[論文はこちら](https://www.jstage.jst.go.jp/article/jrobomech/37/6/37_1545/_article/-char/en)
-
-## 執筆歴: 記事
-- [人工的に生物を作る学問「合成生物学」とは？｜早稲田大の学生団体がクラウドファンディングで挑戦する、世界大会「iGEM」への道](https://lab-brains.as-1.co.jp/for-biz/2024/06/65064/)
-- [ESM3を利用したタンパク質の設計【タンパク質デザイン】](https://labo-code.com/bioinformatics/esm3-dppiv/)
-- [EvoProtGradを用いたタンパク質のin silico指向性進化【タンパク質デザイン】](https://labo-code.com/bioinformatics/evoprotgrad/)
-- [MACEによる機械学習を用いた分子動力学計算【MD simulation】](https://labo-code.com/bioinformatics/mace/)
-- [PyRosettaによるエネルギー最小化とロゼッタスコアの出力【タンパク質】【In silico創薬】](https://labo-code.com/bioinformatics/pyrosetta_energy_minimization/)
-- [機械学習によるタンパク質の変異設計、In Silicoスクリーニング、分子ドッキング【iGEM-Wasedaプロジェクトレポート】](https://labo-code.com/bioinformatics/protein-design-screening-docking-igem-waseda/)
+## コンペ参加歴
+|期間|名前|
+|-----|-----|
+|2025年7月~2025年9月|松尾研LLMコンペ2025参加|
+|2025年11月~2026年1月|Kaggle Santa 2025 - Christmas Tree Packing Challengeで銅メダルを獲得|
+|2025年12月~2026年3月|Kaggle Deep Past Challenge - Translate Akkadian to English 参加|
+|2026年5月~2026年5月|KDDcup2026: Data Agents参加|
+|2026年3月~2026年6月|Kaggle BirdCLEF+ 2026で銅メダルを獲得|
 
 
 ## 研究経験
