@@ -68,7 +68,7 @@
 - **開発期間**: 2週間 
 - **github**: https://github.com/joeyprg45/warikan_app 
 
-### 人事提案AIエージェント
+### 人事提案AIエージェント - TarentScope
 - **概要**: notionやslack、githubと連携して社員のスキルを分析し、最適なアサイン提案を行うAIエージェント
 - **開発期間**: 1か月
 - **github**: https://github.com/joeyprg45/TalentScope
@@ -76,6 +76,11 @@
 ### Blender作品
 - **概要**: 今までBlenderで作ってきた作品の画像集
 - **pinterest**: https://www.pinterest.com/jokjok9000/
+
+- ### AIエージェント構築AIエージェント - AgentForge
+- **概要**: データとタスクを与えると、そのデータを解析しながら、タスクを解くための最適なAIエージェントを構築してくれるAIエージェント構築用ビジュアルツール
+- **開発期間**: 1か月
+- **github**: [https://github.com/joeyprg45/DevOpsh](https://github.com/joeyprg45/DevOps_Hackathon)
 ---
 
 ## 自己PR
