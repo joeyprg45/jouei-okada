@@ -9,6 +9,8 @@
 |  LinkedIn  | https://www.linkedin.com/in/jouei-okada-785990262/ |
 | GitHub |  https://github.com/joeyprg45     |
 |  Zenn  |   https://zenn.dev/joesaber       |
+|  ProtoPedia  |   [https://zenn.dev/joesaber ](https://protopedia.net/prototyper/joey90125)      |
+
 
 ---
 
