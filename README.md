@@ -34,6 +34,15 @@
 
 ---
 
+## サークル、部活動等
+|サークル名|役職|活動内容|
+|-----|---|----|
+|基礎スキーサークルSkiheil|会計|毎年冬に10日間のスキー合宿を開催、スキー検定に挑戦する等|
+|プログラミングサークルTND|会長|pythonの教育、kaggleへの参加等|
+|メディアアートサークルC4s|---|他サークルのライブの映像作成、文化祭でのゲーム制作等|
+
+---
+
 ## 講座参加歴
 |期間|名前|
 |-----|-----|
@@ -72,6 +81,7 @@
 - **概要**: notionやslack、githubと連携して社員のスキルを分析し、最適なアサイン提案を行うAIエージェント
 - **開発期間**: 1か月
 - **github**: https://github.com/joeyprg45/TalentScope
+- **zenn**: https://zenn.dev/joesaber/articles/18ca9616d99888
 
 ### Blender作品
 - **概要**: 今までBlenderで作ってきた作品の画像集
@@ -80,7 +90,8 @@
 ### AIエージェント構築AIエージェント - AgentForge
 - **概要**: データとタスクを与えると、そのデータを解析しながら、タスクを解くための最適なAIエージェントを構築してくれるAIエージェント構築用ビジュアルツール
 - **開発期間**: 1か月
-- **github**: [https://github.com/joeyprg45/DevOpsh](https://github.com/joeyprg45/DevOps_Hackathon)
+- **github**: https://github.com/joeyprg45/AgentForge
+- **ProtoPedia**: https://protopedia.net/prototype/8796
 ---
 
 ## 自己PR
