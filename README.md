@@ -94,6 +94,12 @@
 - **開発期間**: 1か月
 - **github**: https://github.com/joeyprg45/AgentForge
 - **ProtoPedia**: https://protopedia.net/prototype/8796
+
+### AIモデルの処理フローを可視化
+- **概要**: Blenderを使って作った、3D生成系のAIの処理フローの可視化映像
+- **開発期間**: 1~2か月
+- **pinterest1**: https://jp.pinterest.com/pin/611082243234793874/
+- **pinterest2**: https://jp.pinterest.com/pin/611082243234793861/
 ---
 
 ## 自己PR
